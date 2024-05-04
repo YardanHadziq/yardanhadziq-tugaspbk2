@@ -1,8 +1,10 @@
-# tugaspbk2
+# TUGAS PRAKTIKUM PBK PERTEMUAN 2
 
 ![preview img](/screenshot.png)
 
-This template should help get you started developing with Vue 3 in Vite.
+Yardan Hadziq
+4F
+223510469
 
 ## Recommended IDE Setup
 
